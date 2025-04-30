@@ -2,6 +2,8 @@
 
 `this repository is a MERN project`
 
+https://www.youtube.com/watch?v=7E6um7NGmeE&list=PLjwm_8O3suyOFd8LTFqgw9v7MqPNtgINA
+
 #### Create config.env file in config directory
 ```bash
 PORT=
